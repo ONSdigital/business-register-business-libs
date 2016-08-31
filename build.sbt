@@ -20,7 +20,7 @@ lazy val buildSettings = Seq(
 // Modules
 
 val sparkVersion = "1.6.2"
-val sparkDependencyScope = "compile"
+val sparkDependencyScope = "provided"
 
 val root = Project("business-core", file("."))
   .settings(artifactSettings: _*)
