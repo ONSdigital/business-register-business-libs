@@ -6,6 +6,8 @@ The purpose of this project is to provide core elements for other business regis
 
 Project can be built using either `sbt` installed locally or `bin/sbt` script. First approach will be used in all examples presented here.
 
+NOTE: Scala 2.11 is used by default but project can be cross built for Scala 2.10 as well. For more information please read [SBT documentation](http://www.scala-sbt.org/1.0/docs/Cross-Build.html).  
+
 ## How to build it
 
 To build the project please execute following command:
