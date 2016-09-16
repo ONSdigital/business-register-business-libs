@@ -8,6 +8,12 @@ Project can be built using either `sbt` installed locally or `bin/sbt` script. F
 
 NOTE: Scala 2.11 is used by default but project can be cross built for Scala 2.10 as well. For more information please read [SBT documentation](http://www.scala-sbt.org/1.0/docs/Cross-Build.html).  
 
+
+## Cross project dependencies
+This project depends on the following projects being built and published:
+
+- ["uk.gov.ons.business-register" %% "test-utils" % "1.0.0-SNAPSHOT" % "test"](https://github.com/ONSdigital/business-register-business-libs)
+
 ## How to build it
 
 To build the project please execute following command:
