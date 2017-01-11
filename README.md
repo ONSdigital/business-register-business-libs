@@ -1,5 +1,7 @@
 # Overview
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8ebb20bf139947c3bc04d1799d6ea9ea)](https://www.codacy.com/app/awharris_2/business-register-business-libs?utm_source=github.com&utm_medium=referral&utm_content=ONSdigital/business-register-business-libs&utm_campaign=badger)
+
 The purpose of this project is to provide core elements for other business registry projects.
 
 # Getting started
